@@ -1,0 +1,2 @@
+wdi-smooth-coffeescript
+=======================
