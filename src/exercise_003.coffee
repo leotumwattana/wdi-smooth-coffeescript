@@ -1,8 +1,6 @@
-
 counter = 0
 string = ''
-
 while counter <= 10
-	string += '#'
-	print string
-	counter += 1
+  string += '#'
+  show string
+  counter += 1

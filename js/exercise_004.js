@@ -9,14 +9,14 @@
   value = 1;
 
   for (counter = _i = 1; _i <= 10; counter = ++_i) {
-    print(value = multiply_by_two(value));
+    show(value = multiply_by_two(value));
   }
 
   string = '';
 
   for (counter = _j = 1; _j <= 10; counter = ++_j) {
     string += '#';
-    print(string);
+    show(string);
   }
 
 }).call(this);

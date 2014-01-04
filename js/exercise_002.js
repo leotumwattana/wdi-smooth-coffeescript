@@ -11,7 +11,7 @@
   value = 1;
 
   while (counter <= 10) {
-    print(value = multiply_by_two(value));
+    show(value = multiply_by_two(value));
     counter += 1;
   }
 

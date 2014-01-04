@@ -8,7 +8,7 @@
 
   while (counter <= 10) {
     string += '#';
-    print(string);
+    show(string);
     counter += 1;
   }
 
